@@ -36,9 +36,6 @@ Transitioned from mechanical engineering to software engineering with a focus on
 
 **Education**: MSc Information Systems & BEng Mechanical Engineering from University of Portsmouth
 
-## 🌱 Personal Interests
-
-Gaming, building and painting Warhammer and Gundam models, and developing web scraping and data analysis projects. I maintain a personal AWS environment for experimenting with new technologies and DevOps practices.
 
 ## 📫 Get In Touch
 
